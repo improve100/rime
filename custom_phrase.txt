@@ -1,12 +1,19 @@
 # 碼表各字段以製表符（Tab）分隔
 # 順序爲：文字+編碼+權重（決定重碼的次序、可選）,用tab键间隔
 
-#iOS	ios
-#iPhone	i
-macOS	macos
-Mac	mac
-B站	bzhan
-HarmonyOS	hm	2
-T恤	txu
-U盤	upan
-up主	upzhu
+°       du
+macOS   macos
+Mac     mac
+B站      bzhan
+HarmonyOS  hm
+T恤      txu
+U盘      upan
+up主     upzhu
+定位问题报告需要了解的背景信息:
+1.场景地点:
+2.仿真还是实车:
+3.实车号:
+4.AD版本?地图版本?(点云地图,道路地图):
+5.启动还是运行中出错?
+6.问题描述?
+7.诊断信息?    dwwt
