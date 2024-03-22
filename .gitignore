@@ -15,6 +15,7 @@ index
 *.gram
 *.pack
 packed-refs
+user.yaml
 
 
 
